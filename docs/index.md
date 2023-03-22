@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Kyle Johnson's Resume
 ---
-# Brigham Young
+# Kyle Johnson
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
