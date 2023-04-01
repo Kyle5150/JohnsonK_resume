@@ -1,14 +1,16 @@
 ---
 layout: cv
-title: Kyle Johnson's Resume
+# title: Kyle Johnson's Resume
 ---
 # Kyle Johnson
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+_(208) 881-7703 | KyleTJohnson19@gmail.com_
+
+Kyle is a hard-working college student who is driven, dedicated, and reliable. He works well in stressful situations and brings a positive attitude to the workplace. Kyle is responsible with his duties and gets work done efficiently.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+<!-- | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a> -->
 | <a href="https://github.com/Kyle5150">GitHub</a>
 </div>
 
@@ -16,71 +18,84 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2016-2019`
+__Bonneville High School Graduate__, Idaho Falls, ID
 
-- Full academic scholarship with 4.0 GPA
+- Cumulative GPA: 4.239
+- Enrolled in Honors or Dual Enrollment courses every semester/trimester
 
-`Expected 2029`
+`Expected Spring 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Cumulative GPA: 3.980
+- Major: Computer Science
+- Specialty: Functional Programming
 
+## Studied Programming Languages/Software
 
-## Related Experience
+__Python__
 
-### Internships
+- Experience: 3 years
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+__HTML/CSS__
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Experience: 1 year
 
-### Data Science Lead
+__Javascript__
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Experience: 1/2 year
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+__SQL__
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Experience: 1 year
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+__Tableau__
 
-### Data Science Consulting Team
+- Experience: 1/2 year
 
-`January 2027 - April 2027`
-__Imagine Learning__
+## Job Experience
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`May 2022 – September 2022`
+__Northwest Services Professional Assembly__, Assembly Technician, Logan, UT
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+- Assembly of all customers, display, and store needed items at Lowe's and Home Depot including grills, riding lawn mowers, wheelbarrows, chairs, and toolboxes. 
+- Was made trainer of over five new hires after first week of work.
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`November 2019 – January 2020`
+__De Jones__, Inventory/Organizer, Idaho Falls, ID
 
+- Work included recording inventory, cleaning, and organizing basement rooms for Idaho Falls Community Hospital start-up.
 
-## Service and Work History
+`May 2019 – July 2019`
+__Jake Miller__, Window Washer, Swan Valley, ID
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Indoor and outdoor window washer in the Swan Valley, Idaho area.
 
+`June 2017 – August 2017`
+__Todd Johnson__, Private Landscaper, Idaho Falls, ID
 
-`2023-2025`
-__Service Missionary__, South Africa
+- Work included yard maintenance, rock relocation, removing and replacing weed mat, and tree removal according to schedule.
 
+## Awards and Acknowledgements
 
+### High School
+
+- High Honor Roll every semester/trimester 2016-2019
+- National Honor Society Member 2016-2019
+- Nominated by peers to Homecoming Court 2016 and 2017
+- Varsity Soccer Captain - 2018
+- Varsity Tennis Team - 2016-2019
+- Qualified for 5A State Tournament in Boys’ Singles- 2017, 2018
+- Cross-Country Team - lettered 2016-2017
+- Freshman Basketball Team - 2016
+- Senior Project: Taught free tennis lessons to kids in kindergarten through eighth grade. Duties included leading group warm-ups, skill building drills, and games - 2018
+
+### College
+
+- Introduction to Cybersecurity project leader - 2021
+- Intramurals team captain - 2021
+- All class letter grades A- and above
+- Created campus wide project called 'Duck Duck Hunt'
 
 <!-- ### Footer
 
